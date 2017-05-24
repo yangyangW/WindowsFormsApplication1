@@ -36,6 +36,7 @@ namespace WindowsFormsApplication1
             }
             //Clipboard.SetDataObject(string.Empty);
             //textBox1.Text = string.Empty;
+            //123
         }
     }
 }
